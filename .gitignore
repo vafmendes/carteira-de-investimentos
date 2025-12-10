@@ -1,0 +1,39 @@
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Node / build
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Caches and tool folders
+.cache/
+.turbo/
+.vercel/
+
+# Vite/pack files
+"""
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.tgz
+.pnp.*
+
